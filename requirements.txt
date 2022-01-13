@@ -1,6 +1,12 @@
+apispec==5.1.1
 click==8.0.3
 Flask==2.0.2
+flask-smorest==0.35.0
 itsdangerous==2.0.1
 Jinja2==3.0.3
 MarkupSafe==2.0.1
+marshmallow==3.14.1
+packaging==21.3
+pyparsing==3.0.6
+webargs==8.1.0
 Werkzeug==2.0.2
